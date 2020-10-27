@@ -1,5 +1,5 @@
 
-**Mellozx/Mello** 
+**Mellozx/Mellozx** 
 
 
 <h1 align="center">Hey im mello</h1>
