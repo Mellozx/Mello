@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Mellozx&show_icons=true" alt="Mellozx" />
-  <img  align="right" src="https://github.com/Mellozx/Mello/blob/Master/gifs/hahayes.jpg" width="230">
+  <img  align="right" src="https://github.com/Mellozx/Mellozx/blob/Master/gifs/aefsd.gif" width="230">
  </p>
 
 
