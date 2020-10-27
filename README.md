@@ -1,7 +1,7 @@
 <h1 align="center">Hey im mello</h1>
 <h3 align="center">C#,C++ Programmer, Indie Game Developer and a Modder</h3>
 
-![image](https://github.com/Mellozx/Mello/blob/Master/gifs/hahayes.jpg)
+![image](https://github.com/Mellozx/Mello/blob/Master/gifs/Mello.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="Mellozx" />
@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Mellozx&show_icons=true" alt="Mellozx" />
-  <img  align="right" src="https://github.com/Mellozx/Mello/blob/Master/gifs/Mello.gif" width="230">
+  <img  align="right" src="https://github.com/Mellozx/Mello/blob/Master/gifs/hahayes.jpg" width="230">
  </p>
 
 
