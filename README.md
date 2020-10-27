@@ -1,7 +1,7 @@
 <h1 align="center">Hey im mello</h1>
 <h3 align="center">C#,C++ Programmer, Indie Game Developer and a Modder</h3>
 
-![image](https://github.com/Mellozx/Mello/blob/Master/gifs/Mello.gif)
+![image](https://github.com/Mellozx/Mello/blob/Master/gifs/Mello1.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="Mellozx" />
