@@ -4,7 +4,7 @@
 ![image](https://github.com/Mellozx/Mello/blob/Master/gifs/Mello1.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkax" alt="Mellozx" />
+<img src="https://komarev.com/ghpvc/?username=mellozx" alt="Mellozx" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" alt="csharp"  width="20" height="20" /> 
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="cplusplus" width="20" height="20"/> 
