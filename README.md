@@ -6,7 +6,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mellozx" alt="Mellozx" />
 
-## Languages I use
+## Languages I know/use
 
 <p align="left">
   <a href="https://github.com/dotnet/csharplang">
@@ -41,6 +41,13 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:4px">
   </a>
 
+  <a href="https://www.python.org/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.javascript.com/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ## Some Frameworks I'm familiar with
