@@ -32,6 +32,11 @@
   <a href="https://kotlinlang.org//"/>
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b15e56a11a52933b5a75bf45679671ee06d7702a/svg/dev/languages/kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://www.w3.org/html/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="Java" style="vertical-align:top; margin:4px">
+  </a>
+
 </p>
 
 ## Some Frameworks I'm familiar with
