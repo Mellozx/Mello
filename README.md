@@ -6,17 +6,33 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mellozx" alt="Mellozx" />
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" alt="csharp"  width="20" height="20" /> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" alt="cplusplus" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" alt="javascript" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheflink.svg" alt="flinks" width="20" height="20"/> 
-  <img src="https://img.icons8.com/ultraviolet/40/000000/xbox-r.png" alt="R" width="20" height="20"/> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/nintendoswitch.svg" alt="NSwitch" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
+## I currently use
 
+<p align="left">
+  <a href="https://github.com/dotnet/csharplang">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="Csharp" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://dotnet.microsoft.com"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" alt="CsharpNet" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.java.com/en/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://git-scm.com/"/>
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/8123dfb6450f9e3465f6b82e4440af1d1a7f92e5/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.rust-lang.org/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://kotlinlang.org//"/>
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/b15e56a11a52933b5a75bf45679671ee06d7702a/svg/dev/languages/kotlin.svg" alt="Kotlin" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mellozx?tab=repositories)
 
 -  Ask me about **anything**
