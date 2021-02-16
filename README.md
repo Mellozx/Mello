@@ -21,9 +21,6 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://git-scm.com/"/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/8123dfb6450f9e3465f6b82e4440af1d1a7f92e5/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
-  </a>
 
   <a href="https://www.rust-lang.org/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
@@ -69,6 +66,10 @@
   
   <a href="https://www.npmjs.com/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://git-scm.com/"/>
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/8123dfb6450f9e3465f6b82e4440af1d1a7f92e5/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
