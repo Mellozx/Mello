@@ -34,7 +34,11 @@
   </a>
 
   <a href="https://www.w3.org/html/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="Java" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://fsharp.org/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:4px">
   </a>
 
 </p>
