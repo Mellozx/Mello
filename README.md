@@ -38,6 +38,10 @@
 
   <a href="https://unity.com/"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mellozx?tab=repositories)
 
 -  Ask me about **anything**
