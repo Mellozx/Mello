@@ -61,6 +61,16 @@
   </a>
 </p>
 
+## Services I know
+
+  <a href="https://azure.microsoft.com/en-us/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.npmjs.com/"/>
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/Mellozx?tab=repositories)
 
