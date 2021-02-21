@@ -9,10 +9,6 @@
 ## Languages I know/use
 
 <p align="left">
-  <a href="https://github.com/dotnet/csharplang">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg" alt="Csharp" style="vertical-align:top; margin:4px">
-  </a>
-
   <a href="https://dotnet.microsoft.com"/>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp_dotnet.svg" alt="CsharpNet" style="vertical-align:top; margin:4px">
   </a>
