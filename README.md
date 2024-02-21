@@ -1,7 +1,7 @@
-<h1 align="center">Heya Im Mello</h1>
+<h1 align="center">Hey, Im Mello</h1>
 <h3 align="center">C#, C++ Programmer, Indie Game Developer and a Modder</h3>
 
-![image](https://github.com/Mellozx/Mello/blob/Master/gifs/Mello1.gif)
+![image]()
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mellozx" alt="Mellozx" />
@@ -43,35 +43,6 @@
   </a>
 </p>
 
-## Some Frameworks I'm familiar with
-
-  <a href="https://unity.com/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://nodejs.org/en/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-## Services I know
-
-  <a href="https://azure.microsoft.com/en-us/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.npmjs.com/"/>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://git-scm.com/"/>
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/8123dfb6450f9e3465f6b82e4440af1d1a7f92e5/svg/dev/tools/git.svg" alt="Git" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-- 👨‍💻 All of my projects are available  [here](https://github.com/Mellozx?tab=repositories)
-
--  Ask me about **anything**
 
 
 
